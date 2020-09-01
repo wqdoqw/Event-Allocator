@@ -1,0 +1,14 @@
+*.bin
+*.hex
+*.elf
+*.swp
+*~
+*.o
+*.a
+.svn
+.git
+.depend
+.classpath
+.DS_Store
+.idea
+.settings
